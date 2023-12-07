@@ -1,0 +1,193 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 18, 2023, 6:08:08 PM
+    Author     : M. K. S. T. Sampath
+*/
+
+.home{    
+    position: absolute;
+    background-color: #6C63FF;
+    width: 100%;
+    height: 100%;
+    padding: 10vh;
+    margin-right: 100px; 
+}
+
+.menu{    
+    position: absolute;
+    background-color: #00782C;
+    width: 100%;
+    height: 100%;
+    padding: 10vh;
+}
+
+.aboutus{    
+    position: absolute;
+    background-color: #FFE563;
+    width: 100%;
+    height: 100%;
+    padding: 10vh;
+}
+
+.pricing{    
+    position: absolute;
+    background-color: #C70505;
+    width: 100%;
+    height: 100%;
+    padding: 10vh;
+}
+
+.location{    
+    position: absolute;
+    background-color: #393939;
+    width: 100%;
+    height: 100%;
+    padding: 10vh;
+}
+
+.contact{    
+    position: absolute;
+    background-color: #633FE6;
+    width: 100%;
+    height: 100%;
+    padding: 10vh;
+}
+
+.stsdev{    
+    position: absolute;
+    background-color: #393939;
+    width: 100%;
+    height: 100%;
+    padding: 100px;
+}
+
+.content{
+    background-color: #242424;
+    width: 100%;
+    height: 100%;
+    border-radius: 25px;
+    position: initial
+}
+
+#nav{
+    background: none;
+    border: none;
+    padding: 30px;
+}
+.nav-image{
+    height: 70px;
+}
+#nav ul li{
+    font-size: 15px;
+    font-family: 'Bookman Old Style';
+    margin-top: 15px;
+    margin-right: 15px;
+}
+
+#nav ul li a:hover{
+    color: white;   
+}
+
+#nav ul #null{
+    margin-top: 10px;
+}
+
+#nav .active{
+    color: white;    
+    font-weight: bold;
+}
+
+.imgs{
+    width: 350px;
+    padding-top: 100px;
+}
+
+.stsdev h2{
+    color: white;
+    font-size: 30px;
+    font-family: 'Bookman Old Style';
+}
+
+.stsdev p{
+    color: #cccccc;
+    font-size: 18px;
+    margin: 25px 0;
+    font-family: 'Bookman Old Style';
+}
+
+.search{
+    background-color: #242424;
+    width: 600px;
+    height: 80px;
+    border: 4px solid #393939;
+    border-radius: 50px;
+    color: #fff;
+    font-size: 18px;
+    margin: 25px 0;
+    font-family: 'Bookman Old Style';
+    padding-left: 60px;
+}
+
+.search-btn{
+    background: none;
+    border: none;
+    color: white;
+    transform: translateX(-80px);
+    margin-top: 20px;
+}
+
+.ct{
+    padding: 100px 400px 100px 400px;
+}
+
+.col-01{
+    padding: 120px 100px;
+    color: #fff;
+    position: relative;
+}
+
+.col-02{
+    padding: 10px;
+}
+
+.col-01 h1{
+    font-family: 'Bookman Old Style';
+    font-size: 60px;
+    margin-bottom: 30px;
+}
+
+.col-01 p{
+    font-family: 'Bookman Old Style';
+    font-size: 20px;
+    font-weight: 400;
+    opacity: 66%;
+    margin-bottom: 30px;
+}
+
+.col-01 button{
+    background: none;
+    font-family: 'Bookman Old Style';
+    border: 2px solid #6C63FF;
+    border-radius: 12px;
+    padding: 10px 30px;
+}
+
+.col-01 button:hover{
+    background: #ffffff10;
+}
+
+.col-01 button:active{
+    background: #6C63FF;
+    border: 2px solid #6C63FF;
+}
+
+.col-04 hr{
+    transform: rotate(90deg);
+    width: 500px;
+    transform-origin: left;
+
+}
